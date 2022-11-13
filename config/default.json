@@ -1,4 +1,4 @@
 {
-    "mongoDB_URI": "mongodb+srv://Aman-Sekhon:Amandeep2@cluster0.9hrtvth.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoDB_URI": <"Enter your MongoDB link">,
     "jwtSecret" : "secrettoken"
 }
