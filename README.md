@@ -20,7 +20,7 @@ This project serves as a foundational template for implementing authentication f
 - **JWT Authentication**: Token-based authentication mechanism for securing user sessions.
 
 ## Screenshots
-![ALT TEXT](https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot_1.png)
+![ALT TEXT](https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot_1.png) ![ALT TEXT](https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot_2.png) ![ALT TEXT](https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot_3.png)
 
 ## Installation
 - **Download Code**: Download code from this repository
