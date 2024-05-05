@@ -11,3 +11,30 @@ The key features of this project include:
 - **Logout Functionality**: Enables users to securely logout, destroying their session and invalidating their JWT token.
 - **Responsive UI**: Utilizes React for building a dynamic and user-friendly frontend interface that adapts to different screen sizes.
 This project serves as a foundational template for implementing authentication functionality in MERN stack applications, offering developers a comprehensive solution with best practices for user authentication and authorization.
+
+## Technologies Used
+- **MongoDB**: NoSQL database for storing user data and session information.
+- **Express.js**: Backend framework for building RESTful APIs and handling authentication logic.
+- **React**: Frontend library for building dynamic and interactive user interfaces.
+- **Node.js**: JavaScript runtime environment for running server-side code.
+- **JWT Authentication**: Token-based authentication mechanism for securing user sessions.
+
+## Installation
+- **Download Code**: Download code from this repository
+- **Unzip Folder**: Extract the downloaded zip file to a location of your choice on your local machine.
+- **Install Dependencies**:
+  - Open your terminal or command prompt.
+  - Navigate to the project directory.
+  - Run the following command to install the required dependencies:
+    ```bash
+     npm i
+     ```
+    If you encounter any peer dependencies issues, you can try the following command:
+    ```bash
+    npm --legacy-peer-deps install
+    ```
+- **Start the Application**
+  After successfully installing the dependencies, run the following command to start the application:
+  ```bash
+  npm start
+  ```
