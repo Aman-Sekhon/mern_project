@@ -33,7 +33,7 @@ This project serves as a foundational template for implementing authentication f
     ```bash
     npm --legacy-peer-deps install
     ```
-- **Start the Application**
+- **Start the Application**: 
   After successfully installing the dependencies, run the following command to start the application:
   ```bash
   npm start
