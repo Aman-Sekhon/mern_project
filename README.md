@@ -21,9 +21,9 @@ This project serves as a foundational template for implementing authentication f
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot (315).png" width="30%">
-    <img src="https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot (317).png" width="30%">
-    <img src="https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot (319)" width="30%">
+    <img src="https://github.com/Aman-Sekhon/mern_project/blob/d5df389d350952d2001b23f83ebe9212957bcd62/client/public/Screenshot%20(315).png" width="30%">
+    <img src="https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot%20(317).png" width="30%">
+    <img src="https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot%20(319)" width="30%">
 </div>
 
 ## Installation
