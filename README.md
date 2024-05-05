@@ -19,6 +19,9 @@ This project serves as a foundational template for implementing authentication f
 - **Node.js**: JavaScript runtime environment for running server-side code.
 - **JWT Authentication**: Token-based authentication mechanism for securing user sessions.
 
+## Screenshots
+[!ALT TEXT](https://github.com/Aman-Sekhon/mern_project/blob/b762b7f8d69e5074e181ad731b2d1eb774cb8ced/client/public/Screenshot_1.png)
+
 ## Installation
 - **Download Code**: Download code from this repository
 - **Unzip Folder**: Extract the downloaded zip file to a location of your choice on your local machine.
